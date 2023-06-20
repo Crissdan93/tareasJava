@@ -20,8 +20,8 @@ public class tarea1 {
 		
 		System.out.println("El area del rectangulo es " + area);
 		
-	
 		
+		//AREA DE RECTANGULO
 	}
 
 }
